@@ -1,0 +1,68 @@
+{
+  "students_grades": [
+    {
+      "ID": "1",
+      "First_Name": "Victor",
+      "Last_Name": "Kimutai",
+      "Course_ID": "INSY 415",
+      "Course_Name":"Computer Graphics",
+      "Grade": "B"
+    },
+    {
+      "ID": "2",
+      "First_Name": "Thelma",
+      "Last_Name": "Mweni",
+      "Course_ID": "INSY 415",
+      "Course_Name":"Computer Graphics",
+      "Grade": "C"
+    },
+    {
+      "ID": "3",
+      "First_Name": "Kevin",
+      "Last_Name": "Wanyama",
+      "Course_ID": "INSY 415",
+      "Course_Name":"Computer Graphics",
+      "Grade": "D"
+    },
+    {
+      "ID": "4",
+      "First_Name": "Christine",
+      "Last_Name": "Mutuku",
+      "Course_ID": "INSY 415",
+      "Course_Name":"Computer Graphics",
+      "Grade": "A"
+    },
+    {
+      "ID": "5",
+      "First_Name": "Robin",
+      "Last_Name": "Olepin",
+      "Course_ID": "INSY 415",
+      "Course_Name":"Computer Graphics",
+      "Grade": "C"
+    },
+    {
+      "ID": "6",
+      "First_Name": "Jane",
+      "Last_Name": "Mwangi",
+      "Course_ID": "INSY 415",
+      "Course_Name":"Computer Graphics",
+      "Grade": "A"
+    },
+    {
+      "ID": "7",
+      "First_Name": "Sam",
+      "Last_Name": "Gitau",
+      "Course_ID": "INSY 415",
+      "Course_Name":"Computer Graphics",
+      "Grade": "B"
+    },
+    {
+      "ID": "8",
+      "First_Name": "Naomi",
+      "Last_Name": "Awino",
+      "Course_ID": "INSY 415",
+      "Course_Name":"Computer Graphics",
+      "Grade": "B"
+    }
+  ]
+}
