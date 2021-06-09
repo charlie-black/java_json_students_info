@@ -31,7 +31,7 @@ public class StudentsJsonGradesInsert
             JSONArray jsonArray = (JSONArray) jsonObject.get("students_grades");
             Connection con = ConnectToDB();
             //Insert a row into the comp_graphics table
-            PreparedStatement pstmt = con.prepareStatement("INSERT INTO comp_graphics values (?, ?, ?, ?, ?, ? )");
+            PreparedStatement pstmt = con.prepareStatement("INSERT INTO comp_graphics (grades) values (?, )");
             for(Object object : jsonArray) {
                 JSONObject record = (JSONObject) object;
                 int id = Integer.parseInt((String) record.get("ID"));
